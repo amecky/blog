@@ -1,5 +1,5 @@
 +++
-date = "2017-05-12T12:29:00+02:00"
+date = "2017-05-12T13:47:34+02:00"
 description = ""
 draft = false
 tags = []
@@ -8,6 +8,4 @@ topics = []
 
 +++
 
-# About me
-
-Nothing to say so far
+# Projects

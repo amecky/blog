@@ -32,21 +32,19 @@ theme = "blackburn"
     identifier = "post"
     url = "/post/"
   [[menu.main]]
+    name = "Projects"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    weight = 2
+    url = "/projects/"
+  [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 2
+    weight = 3
     identifier = "about"
     url = "/about/"
-  [[menu.main]]
-    name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
-    weight = 3
-    url = "/contact/"
 
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
   twitter = "buggypixels"
-  facebook = "*"
   github = "amecky"
-  stackoverflow = "9768666/meckya"
